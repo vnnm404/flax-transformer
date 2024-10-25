@@ -1,0 +1,5 @@
+jax[cuda12]
+jaxlib
+jaxtyping
+flax
+treescope
